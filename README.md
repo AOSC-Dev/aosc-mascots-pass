@@ -4,11 +4,11 @@ AOSC 吉祥物样式通行证
 
 设计软件：[Krita](https://krita.org/zh-cn/)
 
-该系列通行证包含以下内容：
+该系列通行证包含以下内容（辅助设计的背景均会在出品时去除）：
 
 ## ANAN
 
-![](./pass-anan/pass-anan.png)
+![](./pass-anan/pass-anan-include-bg.webp)
 
 ```text
 Mascot of Anthon Open Source Community
@@ -20,7 +20,7 @@ Illustrator: 钛山 (Tyson Tan)
 
 ## O!M!A!
 
-![](./pass-oma/pass-oma.png)
+![](./pass-oma/pass-oma-include-bg.webp)
 
 ```text
 Mascot of Anthon Open Source Community
