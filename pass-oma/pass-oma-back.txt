@@ -1,0 +1,6 @@
+Mascot of Anthon Open Source Community
+Prototype: 2
+Version: 1.0
+Illustrator: 五十根炸虾
+License: CC BY-SA 4.0 International
+©AOSC | aosc.io
