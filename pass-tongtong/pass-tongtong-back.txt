@@ -1,0 +1,5 @@
+Prototype: 1
+Version: 1.0
+Illustrator: 钛山 (Tyson Tan)
+License: CC BY-SA 4.0 International
+©AOSC | aosc.io
